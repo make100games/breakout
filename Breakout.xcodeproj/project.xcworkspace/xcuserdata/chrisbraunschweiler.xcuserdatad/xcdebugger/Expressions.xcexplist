@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "OpenGlRenderer::setupGeometry(std::__1::unique_ptr&lt;Renderable, std::__1::default_delete&lt;Renderable&gt; &gt; const&amp;):OpenGlRenderer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
