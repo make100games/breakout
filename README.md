@@ -1,5 +1,5 @@
 # Breakout
-A simple version of Breakout written in my own, homegrown C++ and OpenGL-based game engine.
+A simple version of Breakout written in my own, homegrown C++ and OpenGL-based game engine. This project was built with XCode on Mac and therefore only runs on Mac. It uses Apple's AppKit Windowing system to create a window and host an Open GL context. AppKit is also used to provide double buffering.
 
 https://github.com/user-attachments/assets/e5b9b237-cb6a-40a1-8e16-ed6252b62bfc
 
